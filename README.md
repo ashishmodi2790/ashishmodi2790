@@ -13,5 +13,5 @@ One of my notable accomplishments includes leading the development of a large-sc
 I am constantly seeking new challenges and opportunities to further enhance my expertise and make a meaningful impact in the world of technology. Let's connect and explore how we can collaborate to achieve exceptional results.
 
 # Find me around the web 🌎
-- <a href="[https://www.linkedin.com/in/ashishmodiprofile/](https://www.linkedin.com/in/ashish-modi-a97a5a28b/)">LinkedIn</a>
-- <a href="[https://medium.com/@ashishmodi.modi](https://medium.com/@ashishmodi2790)https://medium.com/@ashishmodi2790">Medium</a>
+- <a href="https://www.linkedin.com/in/ashish-modi-a97a5a28b/">LinkedIn</a>
+- <a href="https://medium.com/@ashishmodi2790">Medium</a>
