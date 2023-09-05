@@ -13,8 +13,8 @@ A passion for innovation and a strong technical skill set drive my commitment to
 
 My technical prowess extends to cutting-edge technologies, including but not limited to:
 
-Azure Databricks/Synapse__
-ADLS Gen2--
+**Azure Databricks/Synapse
+ADLS Gen2
 Azure Data Pipelines
 ChatGPT
 Power-BI
@@ -24,7 +24,7 @@ JPA
 Kafka
 ELK stack
 Spring Batch
-Hibernate
+Hibernate**
 
 **Notable Achievements**
 
