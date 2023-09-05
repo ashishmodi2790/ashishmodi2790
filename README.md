@@ -2,16 +2,42 @@
 
 **Results-driven Software Engineer | Product Development | Data Engineering | Solutions Architecture | Application Development | Consulting**
 
-I am a highly accomplished Software Engineer with over 10.2 years of experience in the IT industry. Throughout my career, I have played diverse roles in product development, data engineering, solutions architecture, application development, and consulting.
+I am a highly accomplished Software Engineer with an extensive 10.2-year career in the IT industry. My expertise spans a range of roles, including product development, data engineering, solutions architecture, application development, and consulting.
 
-I have a proven track record of delivering high-quality solutions in domains such as Learning, Telecom, and Industrial IoT. With a strong technical skill set and a passion for innovation, I strive to create impactful software solutions that drive business success.
+**Experience Highlights**
 
-I am well-versed in utilizing cutting-edge technologies such as Azure Databricks/Synapse, ADLS Gen2, Azure Data Pipelines, ChatGPT, Power-BI, Spring Cloud, Spring Boot, JPA, Kafka, ELK stack, Spring Batch, Hibernate, and more.
+Proven track record in delivering high-quality solutions across diverse domains, including Learning, Telecom, and Industrial IoT.
+A passion for innovation and a strong technical skill set drive my commitment to creating impactful software solutions that fuel business success.
 
-One of my notable accomplishments includes leading the development of a large-scale data ingestion/quality/lineage platform at Microsoft R&D, enabling insightful business intelligence and insights on Microsoft learning data sources. Additionally, at Siemens PLM, I played a key role in building a scalable and robust system for Mindsphere, an IIOT product, which successfully consumed millions of device data via REST API endpoints, deployed across AWS, Azure, and Azure Stack.
+**Technological Proficiency**
 
-I am constantly seeking new challenges and opportunities to further enhance my expertise and make a meaningful impact in the world of technology. Let's connect and explore how we can collaborate to achieve exceptional results.
+My technical prowess extends to cutting-edge technologies, including but not limited to:
+
+Azure Databricks/Synapse
+ADLS Gen2
+Azure Data Pipelines
+ChatGPT
+Power-BI
+Spring Cloud
+Spring Boot
+JPA
+Kafka
+ELK stack
+Spring Batch
+Hibernate
+
+**Notable Achievements**
+
+Among my significant accomplishments:
+
+I led the development of a large-scale data ingestion, quality, and lineage platform during my tenure at Microsoft R&D. This platform empowered insightful business intelligence and analysis on Microsoft learning data sources.
+
+At Siemens PLM, I played a pivotal role in constructing a scalable and robust system for Mindsphere, an IIOT product. This system successfully processed millions of device data points through REST API endpoints, deployed across AWS, Azure, and Azure Stack.
+
+**A Commitment to Excellence**
+
+I am constantly on the lookout for new challenges and opportunities to expand my expertise and create a meaningful impact in the ever-evolving realm of technology. I invite you to connect with me and explore how we can collaborate to achieve exceptional results together.
 
 # Find me around the web 🌎
 - <a href="https://www.linkedin.com/in/ashish-modi-a97a5a28b/">LinkedIn</a>
-- <a href="https://medium.com/@ashishmodi2790">Medium</a>
+- <a href="https://medium.com/@ashishmodi2790/">Medium</a>
