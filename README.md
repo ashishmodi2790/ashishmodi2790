@@ -2,7 +2,7 @@
 
 **Results-driven Software Engineer | Product Development | Data Engineering | Solutions Architecture | Application Development | Consulting**
 
-I am a highly accomplished Software Engineer with an extensive 10.2-year career in the IT industry. My expertise spans a range of roles, including product development, data engineering, solutions architecture, application development, and consulting.
+I am a highly accomplished Freelancer with an extensive 11-years career in the IT industry. My expertise spans a range of roles, including product development, data engineering, solutions architecture, application development, and consulting.
 
 **Experience Highlights**
 
@@ -13,8 +13,8 @@ A passion for innovation and a strong technical skill set drive my commitment to
 
 My technical prowess extends to cutting-edge technologies, including but not limited to:
 
-Azure Databricks/Synapse
-ADLS Gen2
+Azure Databricks/Synapse__
+ADLS Gen2--
 Azure Data Pipelines
 ChatGPT
 Power-BI
